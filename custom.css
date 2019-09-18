@@ -193,3 +193,7 @@
   .retina-logo {
     margin: 0px;
   }
+
+  #rev_slider_1_1_wrapper .tp-loader.spinner2 {
+    background-color: #00BCD4 !important;
+  }
