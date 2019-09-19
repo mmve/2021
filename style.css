@@ -482,7 +482,7 @@ div[class^="moduletable-"] div[class*=" custom-"] h3,
 div[class*=" moduletable-"] div[class^="custom-"] h3,
 div[class*=" moduletable-"] div[class*=" custom-"] h3 {
   color: #111;
-  font-size: 21px !important;
+  font-size: 18px !important;
 }
 
 /*//////////////////////////////////////////////////////////////////////////////

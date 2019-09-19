@@ -3098,9 +3098,9 @@ ul.nav.horizontal.favth-pull-right li .nav-header {
 .fav-container h5,
 .fav-container h6 {
   border: 0 none;
-  line-height: 1.3em;
-  margin-top: 2rem;
-  margin-bottom: 1.4rem;
+  line-height: 16px;
+  margin-top: 32px;
+  margin-bottom: 12px;
 }
 .fav-container h1 a,
 .fav-container h2 a,
@@ -3124,8 +3124,8 @@ ul.nav.horizontal.favth-pull-right li .nav-header {
   text-decoration: none;
 }
 .fav-container h3 {
-  font-size: 24px;
-  margin-bottom: 14px;
+  font-size: 18px;
+  margin-bottom: 10px;
 }
 .fav-container h4,
 .fav-container h5,
@@ -3146,8 +3146,8 @@ ul.nav.horizontal.favth-pull-right li .nav-header {
 /* subtitles */
 .fav-container h4.fav-subtitle {
   color: inherit;
-  margin-top: -14px;
-  margin-bottom: 24px;
+  margin-top: 16px;
+  margin-bottom: 8px;
   font-weight: normal;
   font-size: 16px;
 }

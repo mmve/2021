@@ -193,6 +193,21 @@
   .retina-logo {
     margin: 0px;
   }
+  
+  li {
+    padding: 2px;
+  }
+  
+  h2 {
+	font-size: 24px;
+	text-align: center;
+	text-transform: uppercase;
+  }
+  
+  h3 {
+	font-size: 18px;
+	text-transform: uppercase;
+  }
 
   #rev_slider_1_1_wrapper .tp-loader.spinner2 {
     background-color: #00BCD4 !important;
