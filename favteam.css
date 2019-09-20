@@ -305,7 +305,7 @@ p[class*=" favteam-contact-chat"] i {
 }
 p[class^="favteam-contact-location"] i,
 p[class*=" favteam-contact-location"] i {
-  padding-right: 0.8em;
+  padding-right: 11.2px;
 }
 p[class^="favteam-contact-phone"] i,
 p[class*=" favteam-contact-phone"] i {
@@ -313,7 +313,7 @@ p[class*=" favteam-contact-phone"] i {
 }
 p[class^="favteam-contact-chat"] i,
 p[class*=" favteam-contact-chat"] i {
-  padding-right: 0.4em;
+  padding-right: 5.957px;
 }
 
 @media (max-width: 767px) {

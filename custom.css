@@ -208,6 +208,10 @@
 	font-size: 18px;
 	text-transform: uppercase;
   }
+  
+  p {
+	 text-align: justify;
+  }
 
   #rev_slider_1_1_wrapper .tp-loader.spinner2 {
     background-color: #00BCD4 !important;
