@@ -194,25 +194,47 @@
     margin: 0px;
   }
   
-  li {
-    padding: 2px;
-  }
-  
-  h2 {
-	font-size: 24px;
-	text-align: center;
-	text-transform: uppercase;
-  }
-  
-  h3 {
-	font-size: 18px;
-	text-transform: uppercase;
-  }
-  
-  p {
-	 text-align: justify;
-  }
-
   #rev_slider_1_1_wrapper .tp-loader.spinner2 {
     background-color: #00BCD4 !important;
   }
+  
+li {
+	padding: 2px;
+}
+  
+h2 {
+	font-size: 24px;
+	text-align: center;
+	text-transform: uppercase;
+}
+  
+h3 {
+	font-size: 18px;
+	text-transform: uppercase;
+}
+  
+p {
+	text-align: justify;
+}
+  
+.relative {
+	position:relative;
+}
+  
+.absolute-text {
+	position:absolute;
+	bottom:-24px;
+	font-size:40px;
+	font-family:'Chakra Petch', sans-serif;
+	color:#FFFFFF;
+	background:rgba(251,251,251,0);
+	background:rgba(0,0,0,1);
+	padding:16px 0px;
+	width:100%;
+	text-align:center;
+}
+
+.absolute-text a {
+	font-size:48px;
+	color:#b92b27;
+}
